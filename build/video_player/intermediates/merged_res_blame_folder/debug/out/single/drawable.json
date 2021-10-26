@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/subhanshu/Subhanshu/flutter_project/flutter_movie/build/video_player/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/subhanshu/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/subhanshu/Subhanshu/flutter_project/flutter_movie/build/video_player/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/subhanshu/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/subhanshu/Subhanshu/flutter_project/flutter_movie/build/video_player/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/subhanshu/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/subhanshu/Subhanshu/flutter_project/flutter_movie/build/video_player/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/subhanshu/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

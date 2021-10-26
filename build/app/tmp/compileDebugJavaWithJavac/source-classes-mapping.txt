@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/thefluttercommunity/flutter_movie/BuildConfig.java
+ com.thefluttercommunity.flutter_movie.BuildConfig
+com/thefluttercommunity/flutter_movie/MainActivity.java
+ com.thefluttercommunity.flutter_movie.MainActivity
